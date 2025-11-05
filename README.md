@@ -1,4 +1,5 @@
-# 💳 Credit Risk Insights from LendingClub Loan Data (SQL + Python Case Study)
+# 💳 Credit Risk Insights from LendingClub Loan Data 
+(SQL Case Study)
 
 ![Finance Banner](https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1350&q=80)
 
