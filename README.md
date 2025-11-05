@@ -3,7 +3,7 @@
 ![Finance Banner](https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=1350&q=80)
 
 > A comprehensive **data-driven financial case study** exploring how **borrower credit grade, loan purpose, and income** influence **interest rates** and **default probabilities**.  
-> Developed using **SQL + Python (Pandas & Matplotlib)** to demonstrate the **risk–return tradeoff** in consumer lending.
+> Developed using **SQL (Python: Pandas & Matplotlib)** to demonstrate the **risk–return tradeoff** in consumer lending.
 
 ---
 
